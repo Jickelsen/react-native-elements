@@ -57,7 +57,6 @@ const Tile = props => {
       flex: 2,
     },
     imageStyle: {
-      resizeMode: 'cover',
     },
     text: {
       backgroundColor: 'rgba(0,0,0,0)',
